@@ -1,7 +1,1 @@
-services:
-  - type: web
-    name: midashboard
-    env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:server
-    plan: free
+

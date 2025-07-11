@@ -1,0 +1,251 @@
+PatientID,Name,Gender,Age,Department,Doctor,AdmissionDate,Outcome,DiagnosisCode,DiagnosisDescription,DischargeDate,LengthOfStay,Revenue
+P0001,Danielle,Female,52,General Surgery,Paul Jones,2025-06-02,Recovered,J18,"Pneumonia, organism unspecified",2025-06-08,6,12000.0
+P0002,Angel,Female,15,Neurology,Zachary Ferrell,2025-06-02,Recovered,F41,Other anxiety disorders,2025-06-07,5,9000.0
+P0003,Joshua,Female,72,Pediatrics,Daniel Baker,2025-05-28,Recovered,N39,"Urinary tract infection, site not specified",,33,49500.0
+P0004,Jeffrey,Male,61,Orthopedics,Shirley Suarez,2025-04-03,Recovered,F41,Other anxiety disorders,2025-04-05,2,3400.0
+P0005,Jill,Female,21,Orthopedics,Christopher Bass,2025-04-05,Recovered,I10,Essential (primary) hypertension,2025-04-07,2,3400.0
+P0006,Erica,Female,83,Cardiology,Lisa Archer,2025-06-16,Recovered,I10,Essential (primary) hypertension,,14,30800.0
+P0007,Patricia,Male,87,Orthopedics,Aimee Montoya,2025-05-03,Recovered,M54,Dorsalgia,2025-05-13,10,17000.0
+P0008,Christopher,Female,75,Neurology,Matthew Mcmillan,2025-04-24,Recovered,I25,Chronic ischemic heart disease,2025-04-29,5,9000.0
+P0009,Robert,Male,75,Emergency,Brian Rodriguez,2025-04-13,Referred,M54,Dorsalgia,2025-04-15,2,3200.0
+P0010,Anthony,Male,88,Emergency,Denise Jacobs,2025-06-16,Recovered,R07,Pain in throat and chest,2025-06-23,7,11200.0
+P0011,Jeffery,Male,24,Emergency,Christina Walters,2025-05-25,Deceased,R07,Pain in throat and chest,,36,57600.0
+P0012,William,Male,3,Pediatrics,John Whitehead,2025-04-20,Recovered,J18,"Pneumonia, organism unspecified",2025-04-24,4,6000.0
+P0013,Anthony,Female,22,Emergency,Anna Henderson,2025-04-07,Deceased,F41,Other anxiety disorders,2025-04-14,7,11200.0
+P0014,James,Male,53,Emergency,Aaron Wise,2025-06-20,Recovered,J18,"Pneumonia, organism unspecified",2025-06-23,3,4800.0
+P0015,Debra,Male,2,Emergency,Deborah Figueroa,2025-06-14,Recovered,I25,Chronic ischemic heart disease,2025-06-22,8,12800.0
+P0016,Amy,Male,88,Neurology,Jessica Smith,2025-05-24,Recovered,I10,Essential (primary) hypertension,2025-06-02,9,16200.0
+P0017,Jeffrey,Male,30,General Surgery,Stephen Mckee,2025-04-21,Recovered,E11,Type 2 diabetes mellitus,2025-04-26,5,10000.0
+P0018,Bridget,Male,38,Cardiology,Sandra Aguilar,2025-05-27,Recovered,M54,Dorsalgia,2025-06-06,10,22000.0
+P0019,Lisa,Female,2,Orthopedics,Cameron Parker,2025-04-21,Recovered,J45,Asthma,2025-04-24,3,5100.0
+P0020,Adam,Male,64,Oncology,Rebecca Valencia,2025-06-18,Recovered,K21,Gastro-esophageal reflux disease,2025-06-25,7,17500.0
+P0021,Linda,Male,60,Cardiology,Christine Wright,2025-06-24,Recovered,E11,Type 2 diabetes mellitus,2025-06-30,6,13200.0
+P0022,Helen,Female,21,Pediatrics,Richard Henson,2025-04-23,Recovered,R07,Pain in throat and chest,2025-04-30,7,10500.0
+P0023,Matthew,Female,33,Oncology,Marc Moore,2025-05-02,Recovered,I25,Chronic ischemic heart disease,2025-05-11,9,22500.0
+P0024,Eric,Male,76,Pediatrics,Sharon Cherry,2025-06-15,Recovered,K21,Gastro-esophageal reflux disease,2025-06-20,5,7500.0
+P0025,Susan,Male,58,Emergency,Sierra Johnson,2025-04-15,Recovered,J45,Asthma,2025-04-16,1,1600.0
+P0026,Matthew,Female,22,Oncology,Evelyn Galvan,2025-06-16,Recovered,R07,Pain in throat and chest,2025-06-26,10,25000.0
+P0027,Christopher,Male,89,General Surgery,Sharon Cochran,2025-06-27,Recovered,J18,"Pneumonia, organism unspecified",,3,6000.0
+P0028,Colin,Female,49,Cardiology,Richard Rodriguez,2025-05-28,Recovered,R07,Pain in throat and chest,2025-06-03,6,13200.0
+P0029,Melanie,Female,59,Emergency,Shannon Walker,2025-04-01,Recovered,N39,"Urinary tract infection, site not specified",2025-04-02,1,1600.0
+P0030,Cassandra,Female,42,Neurology,Julia Torres,2025-04-27,Referred,F41,Other anxiety disorders,,64,115200.0
+P0031,Lindsay,Male,60,Pediatrics,Crystal Johnson,2025-06-23,Recovered,I10,Essential (primary) hypertension,2025-07-01,8,12000.0
+P0032,Jessica,Male,80,Cardiology,Garrett Lin,2025-04-15,Recovered,F41,Other anxiety disorders,2025-04-19,4,8800.0
+P0033,Amanda,Female,15,ICU,Diana May,2025-04-13,Recovered,I25,Chronic ischemic heart disease,2025-04-17,4,
+P0034,Teresa,Female,62,Pediatrics,William Herrera,2025-05-23,Recovered,E11,Type 2 diabetes mellitus,2025-05-29,6,9000.0
+P0035,Nicholas,Female,62,Orthopedics,Ashley Waller,2025-04-25,Recovered,J45,Asthma,,66,112200.0
+P0036,Andrea,Female,47,Emergency,Victor Baker,2025-06-17,Recovered,N39,"Urinary tract infection, site not specified",2025-06-20,3,4800.0
+P0037,Maria,Male,62,General Surgery,Jeffrey Chandler,2025-04-17,Recovered,R07,Pain in throat and chest,2025-04-26,9,18000.0
+P0038,Christine,Male,51,General Surgery,Larry Dixon,2025-04-11,Recovered,F41,Other anxiety disorders,2025-04-20,9,18000.0
+P0039,Michelle,Female,55,General Surgery,Kenneth Scott,2025-06-04,Recovered,K21,Gastro-esophageal reflux disease,2025-06-07,3,6000.0
+P0040,Barbara,Male,64,ICU,April Frost,2025-06-24,Recovered,E11,Type 2 diabetes mellitus,2025-06-26,2,
+P0041,Janet,Male,3,Cardiology,Michelle Harmon,2025-04-03,Recovered,K21,Gastro-esophageal reflux disease,2025-04-05,2,4400.0
+P0042,Brandon,Female,51,Pediatrics,Helen Jones,2025-04-13,Deceased,M54,Dorsalgia,2025-04-21,8,12000.0
+P0043,Jeremy,Female,7,Orthopedics,Erin Edwards,2025-04-02,Recovered,J18,"Pneumonia, organism unspecified",,89,151300.0
+P0044,Keith,Female,21,General Surgery,Michelle Evans,2025-05-05,Recovered,K21,Gastro-esophageal reflux disease,,56,112000.0
+P0045,Christopher,Male,73,Neurology,Jason Powell,2025-06-16,Recovered,I25,Chronic ischemic heart disease,2025-06-23,7,12600.0
+P0046,Jesse,Male,39,General Surgery,Cameron Fisher,2025-06-16,Recovered,N39,"Urinary tract infection, site not specified",2025-06-18,2,4000.0
+P0047,Craig,Female,18,ICU,Megan Orr,2025-04-24,Recovered,N39,"Urinary tract infection, site not specified",2025-04-27,3,
+P0048,Joshua,Male,4,Cardiology,Elizabeth Kelley,2025-05-28,Recovered,K21,Gastro-esophageal reflux disease,2025-06-06,9,19800.0
+P0049,Cynthia,Male,89,ICU,Dustin Jordan,2025-05-02,Referred,R07,Pain in throat and chest,2025-05-03,1,
+P0050,Michael,Female,60,Cardiology,Mary Marshall,2025-04-02,Recovered,N39,"Urinary tract infection, site not specified",2025-04-12,10,22000.0
+P0051,Mitchell,Female,14,ICU,Daniel Kennedy,2025-04-17,Recovered,K21,Gastro-esophageal reflux disease,2025-04-23,6,
+P0052,Jason,Male,9,ICU,Rebecca Jackson,2025-04-26,Recovered,F41,Other anxiety disorders,,65,
+P0053,Joseph,Female,53,General Surgery,Jose Schultz,2025-04-06,Recovered,F41,Other anxiety disorders,2025-04-07,1,2000.0
+P0054,Sharon,Male,2,Neurology,Robert Potter,2025-04-13,Recovered,J45,Asthma,2025-04-19,6,10800.0
+P0055,Deborah,Female,84,Oncology,Courtney Gonzalez,2025-06-12,Recovered,N39,"Urinary tract infection, site not specified",2025-06-21,9,22500.0
+P0056,Chelsea,Male,60,Emergency,David Alvarez,2025-05-11,Recovered,K21,Gastro-esophageal reflux disease,2025-05-14,3,4800.0
+P0057,George,Female,71,ICU,Angel Perry,2025-05-22,Recovered,M54,Dorsalgia,,39,
+P0058,Jessica,Male,44,Emergency,Cheyenne Horton,2025-04-12,Recovered,K21,Gastro-esophageal reflux disease,2025-04-14,2,3200.0
+P0059,Frank,Male,8,Orthopedics,David Douglas Jr.,2025-06-12,Recovered,J45,Asthma,,18,30600.0
+P0060,Noah,Male,47,Cardiology,Patricia Rodriguez,2025-04-07,Referred,I10,Essential (primary) hypertension,2025-04-08,1,2200.0
+P0061,Veronica,Male,35,Neurology,Christopher Rubio,2025-05-17,Recovered,I25,Chronic ischemic heart disease,2025-05-25,8,14400.0
+P0062,Danielle,Female,78,Emergency,Amber Wright,2025-05-14,Recovered,J18,"Pneumonia, organism unspecified",,47,75200.0
+P0063,Angela,Female,81,Orthopedics,Joyce Solis,2025-06-15,Recovered,E11,Type 2 diabetes mellitus,2025-06-23,8,13600.0
+P0064,Gabrielle,Male,36,Cardiology,Victoria Larson,2025-05-06,Recovered,J45,Asthma,2025-05-07,1,2200.0
+P0065,Megan,Male,50,Oncology,Stephanie Salazar,2025-05-20,Deceased,M54,Dorsalgia,2025-05-26,6,15000.0
+P0066,Kimberly,Female,4,Pediatrics,Kathy Rivas,2025-05-28,Recovered,F41,Other anxiety disorders,2025-05-29,1,1500.0
+P0067,Jeremy,Male,2,Oncology,Stephanie Manning,2025-04-11,Recovered,N39,"Urinary tract infection, site not specified",2025-04-14,3,7500.0
+P0068,Antonio,Male,6,Cardiology,David Wright,2025-05-14,Recovered,J18,"Pneumonia, organism unspecified",2025-05-22,8,17600.0
+P0069,Leslie,Female,54,Oncology,Pamela Boyd,2025-05-19,Recovered,I25,Chronic ischemic heart disease,,42,105000.0
+P0070,Joseph,Female,4,Emergency,Denise Jones,2025-04-22,Recovered,J45,Asthma,2025-04-28,6,9600.0
+P0071,Jason,Male,54,Cardiology,Devon Flores,2025-05-30,Referred,N39,"Urinary tract infection, site not specified",2025-06-09,10,22000.0
+P0072,Sherri,Male,63,Oncology,Brenda Hall,2025-04-05,Recovered,M54,Dorsalgia,2025-04-06,1,2500.0
+P0073,Nancy,Female,18,ICU,Michelle Brown,2025-06-10,Recovered,E11,Type 2 diabetes mellitus,,20,
+P0074,Leonard,Male,44,Pediatrics,Joshua Perry,2025-06-16,Recovered,F41,Other anxiety disorders,2025-06-26,10,15000.0
+P0075,Diana,Female,34,Neurology,Jason Stein,2025-06-28,Deceased,N39,"Urinary tract infection, site not specified",2025-07-08,10,18000.0
+P0076,Randall,Male,74,Pediatrics,Melissa Gates,2025-06-24,Recovered,J45,Asthma,2025-06-30,6,9000.0
+P0077,Robin,Male,62,Pediatrics,Jamie Smith,2025-06-03,Recovered,J45,Asthma,2025-06-11,8,12000.0
+P0078,Stephen,Female,14,Emergency,Paul Castaneda,2025-05-21,Referred,N39,"Urinary tract infection, site not specified",2025-05-23,2,3200.0
+P0079,Joseph,Male,48,Cardiology,Jennifer Adkins,2025-04-30,Recovered,R07,Pain in throat and chest,2025-05-09,9,19800.0
+P0080,John,Female,15,Oncology,Lindsey Walker,2025-05-15,Referred,E11,Type 2 diabetes mellitus,2025-05-17,2,5000.0
+P0081,Anna,Female,72,Emergency,Jeffrey Johnson,2025-06-02,Recovered,J45,Asthma,,28,44800.0
+P0082,Jose,Female,78,ICU,Michael Powell,2025-04-04,Recovered,N39,"Urinary tract infection, site not specified",2025-04-08,4,
+P0083,Brenda,Male,87,Pediatrics,John Anderson,2025-04-06,Recovered,M54,Dorsalgia,2025-04-15,9,13500.0
+P0084,Rachael,Male,62,Neurology,Alyssa Long,2025-05-17,Recovered,K21,Gastro-esophageal reflux disease,2025-05-26,9,16200.0
+P0085,Reginald,Female,40,Neurology,Alyssa Day,2025-06-22,Recovered,N39,"Urinary tract infection, site not specified",2025-06-27,5,9000.0
+P0086,Jeffrey,Male,85,Pediatrics,Joel Williams,2025-05-09,Recovered,E11,Type 2 diabetes mellitus,2025-05-11,2,3000.0
+P0087,Whitney,Female,80,ICU,Daniel Murphy,2025-05-12,Recovered,R07,Pain in throat and chest,,49,
+P0088,William,Female,82,Neurology,Jamie Walton,2025-06-06,Recovered,N39,"Urinary tract infection, site not specified",2025-06-14,8,14400.0
+P0089,Christopher,Female,53,Orthopedics,Darlene Miller,2025-04-11,Deceased,K21,Gastro-esophageal reflux disease,,80,136000.0
+P0090,Brandon,Male,24,ICU,Joshua Cooke,2025-05-18,Recovered,F41,Other anxiety disorders,2025-05-25,7,
+P0091,Daniel,Male,26,Pediatrics,Matthew Harrington,2025-06-09,Referred,I10,Essential (primary) hypertension,2025-06-14,5,7500.0
+P0092,Courtney,Male,89,ICU,Nicole Herring,2025-06-28,Recovered,K21,Gastro-esophageal reflux disease,2025-06-29,1,
+P0093,Laura,Female,60,Emergency,Alex Hernandez,2025-05-14,Deceased,J18,"Pneumonia, organism unspecified",,47,75200.0
+P0094,Robert,Male,41,Pediatrics,Michael Elliott,2025-04-08,Recovered,I10,Essential (primary) hypertension,2025-04-12,4,6000.0
+P0095,Bryan,Female,29,ICU,Michael Wang,2025-06-27,Recovered,I25,Chronic ischemic heart disease,2025-07-01,4,
+P0096,Patrick,Female,15,Neurology,Lawrence Adkins,2025-04-08,Recovered,K21,Gastro-esophageal reflux disease,2025-04-12,4,7200.0
+P0097,Wendy,Male,45,Orthopedics,Robert Oconnell,2025-05-02,Recovered,R07,Pain in throat and chest,2025-05-07,5,8500.0
+P0098,Allison,Female,65,Emergency,Alexander Collins,2025-05-30,Recovered,M54,Dorsalgia,2025-05-31,1,1600.0
+P0099,Tasha,Male,89,ICU,Tina Sanders,2025-04-15,Recovered,K21,Gastro-esophageal reflux disease,2025-04-19,4,
+P0100,Michelle,Female,71,Emergency,Angela Vaughn,2025-04-07,Recovered,F41,Other anxiety disorders,2025-04-11,4,6400.0
+P0101,Alexander,Female,9,Neurology,Ashley Barton,2025-04-13,Recovered,K21,Gastro-esophageal reflux disease,2025-04-20,7,12600.0
+P0102,Jennifer,Male,88,ICU,Lindsay Martinez,2025-04-27,Recovered,N39,"Urinary tract infection, site not specified",2025-05-03,6,
+P0103,Erin,Male,1,Emergency,Dr. Hannah Patterson,2025-05-31,Recovered,I25,Chronic ischemic heart disease,2025-06-03,3,4800.0
+P0104,Amanda,Female,8,Orthopedics,Jonathan Peterson,2025-06-01,Recovered,J45,Asthma,2025-06-08,7,11900.0
+P0105,Joseph,Male,88,Neurology,Samantha Garcia,2025-05-27,Recovered,I25,Chronic ischemic heart disease,2025-05-29,2,3600.0
+P0106,Danielle,Male,63,General Surgery,Madison Poole,2025-05-24,Recovered,I10,Essential (primary) hypertension,,37,74000.0
+P0107,Daniel,Female,11,Orthopedics,Jessica Gross,2025-06-09,Referred,K21,Gastro-esophageal reflux disease,,21,35700.0
+P0108,Ryan,Male,81,General Surgery,Debra Morton,2025-05-02,Recovered,K21,Gastro-esophageal reflux disease,,59,118000.0
+P0109,Shawn,Male,8,Orthopedics,Karen Graham,2025-05-07,Referred,I25,Chronic ischemic heart disease,2025-05-08,1,1700.0
+P0110,Stephanie,Male,35,Neurology,Debra Christian,2025-05-29,Recovered,I25,Chronic ischemic heart disease,2025-06-06,8,14400.0
+P0111,Nancy,Male,35,Oncology,Angelica Keith,2025-05-22,Recovered,J18,"Pneumonia, organism unspecified",2025-05-31,9,22500.0
+P0112,Jose,Female,33,Orthopedics,John Bishop,2025-04-29,Recovered,E11,Type 2 diabetes mellitus,,62,105400.0
+P0113,Vincent,Male,5,Neurology,Allen Rosales,2025-05-15,Recovered,M54,Dorsalgia,,46,82800.0
+P0114,Guy,Female,41,ICU,Daniel Salinas,2025-05-20,Recovered,J18,"Pneumonia, organism unspecified",2025-05-28,8,
+P0115,Rita,Female,28,ICU,Spencer Haynes,2025-05-29,Recovered,I25,Chronic ischemic heart disease,2025-06-04,6,
+P0116,Monica,Female,7,Emergency,Adam Vaughan,2025-05-12,Recovered,I25,Chronic ischemic heart disease,2025-05-19,7,11200.0
+P0117,Kenneth,Male,73,ICU,Nathan Freeman,2025-04-10,Recovered,R07,Pain in throat and chest,2025-04-14,4,
+P0118,Danielle,Female,72,Neurology,Melissa Brewer,2025-06-17,Recovered,R07,Pain in throat and chest,2025-06-21,4,7200.0
+P0119,Chelsea,Male,12,General Surgery,Ricky Davis II,2025-06-08,Recovered,N39,"Urinary tract infection, site not specified",2025-06-09,1,2000.0
+P0120,Eric,Female,34,General Surgery,Elizabeth Perkins,2025-04-12,Referred,N39,"Urinary tract infection, site not specified",2025-04-19,7,14000.0
+P0121,Kathryn,Male,33,Pediatrics,Joseph Coleman,2025-06-22,Recovered,K21,Gastro-esophageal reflux disease,,8,12000.0
+P0122,Amber,Female,48,Emergency,Erin Warner,2025-06-03,Referred,E11,Type 2 diabetes mellitus,2025-06-04,1,1600.0
+P0123,Kimberly,Male,23,ICU,David Martinez,2025-06-03,Recovered,N39,"Urinary tract infection, site not specified",,27,
+P0124,Alyssa,Female,62,Orthopedics,Bryan Herrera,2025-06-25,Recovered,J45,Asthma,2025-06-29,4,6800.0
+P0125,Aaron,Female,88,Cardiology,Cathy Robinson,2025-06-14,Recovered,K21,Gastro-esophageal reflux disease,2025-06-15,1,2200.0
+P0126,Mario,Male,37,Cardiology,Dr. William Warren,2025-05-24,Recovered,M54,Dorsalgia,2025-06-03,10,22000.0
+P0127,Andrew,Female,44,Cardiology,Brian Lee,2025-06-09,Recovered,J45,Asthma,2025-06-16,7,15400.0
+P0128,Sarah,Male,86,General Surgery,Christopher Smith,2025-06-24,Recovered,K21,Gastro-esophageal reflux disease,2025-07-01,7,14000.0
+P0129,Natasha,Female,35,Neurology,Denise Mccann,2025-04-21,Recovered,R07,Pain in throat and chest,2025-04-24,3,5400.0
+P0130,Marie,Male,65,Emergency,Melissa Martinez,2025-05-12,Recovered,R07,Pain in throat and chest,2025-05-14,2,3200.0
+P0131,Kyle,Male,47,Neurology,Katherine Salas,2025-05-14,Recovered,R07,Pain in throat and chest,2025-05-16,2,3600.0
+P0132,Brian,Female,78,Cardiology,Julie Alexander,2025-06-26,Recovered,I25,Chronic ischemic heart disease,2025-07-05,9,19800.0
+P0133,Natalie,Male,3,Emergency,Anthony Everett,2025-04-23,Recovered,J18,"Pneumonia, organism unspecified",2025-05-02,9,14400.0
+P0134,Stacey,Male,1,Orthopedics,Rodney Morales,2025-05-11,Recovered,I10,Essential (primary) hypertension,,50,85000.0
+P0135,Christopher,Male,5,Neurology,Mark Brown,2025-05-03,Recovered,R07,Pain in throat and chest,,58,104400.0
+P0136,Todd,Male,14,Neurology,Justin Torres,2025-06-20,Recovered,I25,Chronic ischemic heart disease,2025-06-28,8,14400.0
+P0137,Chad,Male,27,Orthopedics,Bailey Duran DDS,2025-05-15,Recovered,J18,"Pneumonia, organism unspecified",2025-05-21,6,10200.0
+P0138,Kathleen,Female,9,ICU,Courtney Mills,2025-05-09,Recovered,N39,"Urinary tract infection, site not specified",2025-05-11,2,
+P0139,Katie,Male,79,Orthopedics,Jeremy Dalton,2025-05-11,Referred,E11,Type 2 diabetes mellitus,2025-05-21,10,17000.0
+P0140,David,Female,15,General Surgery,Elizabeth Oliver DDS,2025-06-10,Recovered,I25,Chronic ischemic heart disease,2025-06-19,9,18000.0
+P0141,Thomas,Female,42,Neurology,Theresa Clark,2025-04-10,Recovered,I10,Essential (primary) hypertension,2025-04-13,3,5400.0
+P0142,Andrea,Male,77,Orthopedics,Matthew Moore,2025-05-01,Referred,K21,Gastro-esophageal reflux disease,2025-05-11,10,17000.0
+P0143,Joseph,Female,51,Neurology,Benjamin Smith,2025-05-12,Recovered,I25,Chronic ischemic heart disease,,49,88200.0
+P0144,Monique,Female,63,Cardiology,Kirk Carter,2025-05-01,Recovered,I10,Essential (primary) hypertension,2025-05-03,2,4400.0
+P0145,Rodney,Male,52,Pediatrics,Michael Warner,2025-06-04,Recovered,F41,Other anxiety disorders,,26,39000.0
+P0146,Jason,Female,4,ICU,Michael Bradshaw,2025-04-25,Referred,K21,Gastro-esophageal reflux disease,,66,
+P0147,Amber,Male,23,Neurology,Lori Guerrero,2025-05-07,Recovered,M54,Dorsalgia,2025-05-11,4,7200.0
+P0148,Jessica,Male,15,Oncology,Jessica Stephens,2025-04-15,Recovered,J45,Asthma,2025-04-24,9,22500.0
+P0149,James,Female,43,ICU,Susan Serrano,2025-06-06,Referred,J18,"Pneumonia, organism unspecified",2025-06-09,3,
+P0150,Larry,Male,29,ICU,Christopher Parker,2025-05-17,Recovered,N39,"Urinary tract infection, site not specified",2025-05-26,9,
+P0151,Wanda,Male,36,Neurology,Laura Roberts,2025-04-07,Referred,J45,Asthma,2025-04-16,9,16200.0
+P0152,Debra,Male,13,Oncology,Michael Lyons,2025-04-09,Recovered,M54,Dorsalgia,2025-04-14,5,12500.0
+P0153,Samuel,Male,32,Oncology,Kathryn Snyder,2025-06-20,Recovered,J45,Asthma,2025-06-30,10,25000.0
+P0154,Zachary,Male,71,Orthopedics,Andrew Reynolds,2025-04-09,Referred,F41,Other anxiety disorders,2025-04-18,9,15300.0
+P0155,David,Female,59,Pediatrics,David Davis,2025-04-10,Deceased,N39,"Urinary tract infection, site not specified",2025-04-13,3,4500.0
+P0156,Jeffrey,Male,86,Orthopedics,Sara Johnston,2025-05-12,Recovered,J18,"Pneumonia, organism unspecified",2025-05-14,2,3400.0
+P0157,Matthew,Female,28,Neurology,Yvonne Chambers,2025-04-10,Recovered,F41,Other anxiety disorders,2025-04-16,6,10800.0
+P0158,Brianna,Female,66,Oncology,Andrew Avila,2025-06-12,Recovered,K21,Gastro-esophageal reflux disease,2025-06-20,8,20000.0
+P0159,Jerry,Female,42,Emergency,Matthew Moon,2025-06-11,Recovered,J18,"Pneumonia, organism unspecified",2025-06-20,9,14400.0
+P0160,Jeffrey,Male,45,ICU,Kevin Walters,2025-05-07,Recovered,K21,Gastro-esophageal reflux disease,2025-05-10,3,
+P0161,Chad,Female,62,ICU,Brandon Bailey MD,2025-06-18,Recovered,F41,Other anxiety disorders,,12,
+P0162,Crystal,Male,57,Orthopedics,Shannon Rivera,2025-04-13,Recovered,F41,Other anxiety disorders,2025-04-17,4,6800.0
+P0163,Jeremy,Male,6,Neurology,Donna Landry,2025-05-25,Recovered,N39,"Urinary tract infection, site not specified",2025-06-01,7,12600.0
+P0164,Rebecca,Female,28,Cardiology,Krista Gibson,2025-04-06,Recovered,M54,Dorsalgia,2025-04-15,9,19800.0
+P0165,Michele,Male,28,ICU,Frank Cordova,2025-05-27,Recovered,J45,Asthma,2025-06-02,6,
+P0166,Chad,Female,44,Orthopedics,Jose Travis,2025-05-25,Recovered,R07,Pain in throat and chest,2025-05-30,5,8500.0
+P0167,John,Female,84,ICU,Kimberly Gutierrez,2025-05-25,Recovered,I25,Chronic ischemic heart disease,2025-05-28,3,
+P0168,Elizabeth,Male,30,Orthopedics,Isaiah Avila,2025-05-03,Recovered,I25,Chronic ischemic heart disease,,58,98600.0
+P0169,Jason,Male,62,Emergency,Olivia Harris,2025-06-05,Recovered,I25,Chronic ischemic heart disease,2025-06-13,8,12800.0
+P0170,David,Female,75,Oncology,Tanya Kim,2025-04-12,Recovered,J45,Asthma,,79,197500.0
+P0171,Selena,Male,89,Neurology,Barbara Dudley,2025-05-10,Recovered,E11,Type 2 diabetes mellitus,2025-05-17,7,12600.0
+P0172,Ashley,Female,62,Emergency,Cynthia Moore,2025-05-05,Recovered,I25,Chronic ischemic heart disease,,56,89600.0
+P0173,Thomas,Male,1,Oncology,Kristen Davis,2025-06-24,Recovered,J45,Asthma,2025-06-26,2,5000.0
+P0174,Kristen,Male,27,ICU,Susan Murray MD,2025-06-04,Referred,I10,Essential (primary) hypertension,2025-06-07,3,
+P0175,Lindsey,Male,62,Emergency,Kathleen Moran,2025-06-12,Recovered,I10,Essential (primary) hypertension,2025-06-17,5,8000.0
+P0176,James,Female,77,Pediatrics,Denise Davenport,2025-05-12,Recovered,F41,Other anxiety disorders,,49,73500.0
+P0177,Collin,Male,3,Pediatrics,Mrs. Kristen Reyes,2025-06-24,Recovered,N39,"Urinary tract infection, site not specified",2025-06-28,4,6000.0
+P0178,Ryan,Female,70,Cardiology,Katie Suarez,2025-06-28,Recovered,N39,"Urinary tract infection, site not specified",2025-06-29,1,2200.0
+P0179,Rodney,Male,72,General Surgery,Desiree Tyler,2025-06-10,Recovered,M54,Dorsalgia,2025-06-15,5,10000.0
+P0180,Stuart,Female,27,Pediatrics,Timothy Romero,2025-04-05,Referred,J18,"Pneumonia, organism unspecified",,86,129000.0
+P0181,Jessica,Male,9,General Surgery,Diane Evans,2025-04-28,Deceased,K21,Gastro-esophageal reflux disease,2025-05-01,3,6000.0
+P0182,Emily,Male,62,Neurology,Yvonne Burns,2025-05-29,Recovered,I10,Essential (primary) hypertension,2025-06-07,9,16200.0
+P0183,Tracey,Male,37,General Surgery,Joshua Reed,2025-05-01,Recovered,I25,Chronic ischemic heart disease,2025-05-02,1,2000.0
+P0184,Corey,Female,51,ICU,Kimberly Gibson,2025-05-05,Recovered,N39,"Urinary tract infection, site not specified",2025-05-07,2,
+P0185,Richard,Male,44,Cardiology,Colin Terry,2025-04-11,Recovered,J45,Asthma,2025-04-21,10,22000.0
+P0186,Matthew,Male,24,Oncology,Cynthia Rowe,2025-05-27,Recovered,K21,Gastro-esophageal reflux disease,2025-05-30,3,7500.0
+P0187,Michelle,Female,79,Orthopedics,Patrick Thornton,2025-05-20,Recovered,E11,Type 2 diabetes mellitus,2025-05-22,2,3400.0
+P0188,John,Male,59,Emergency,Jasmin Alvarado,2025-04-21,Recovered,I10,Essential (primary) hypertension,2025-04-25,4,6400.0
+P0189,James,Female,32,Neurology,Veronica Simpson,2025-04-16,Recovered,N39,"Urinary tract infection, site not specified",2025-04-24,8,14400.0
+P0190,Shane,Female,88,Orthopedics,Jonathan Lawrence,2025-06-03,Recovered,E11,Type 2 diabetes mellitus,2025-06-04,1,1700.0
+P0191,Robert,Male,52,ICU,Shelly Alexander,2025-05-17,Recovered,E11,Type 2 diabetes mellitus,2025-05-24,7,
+P0192,Joshua,Female,62,Cardiology,Joyce Bowen,2025-04-22,Recovered,I10,Essential (primary) hypertension,2025-04-23,1,2200.0
+P0193,John,Female,58,Orthopedics,Matthew Moore,2025-06-22,Recovered,N39,"Urinary tract infection, site not specified",2025-07-01,9,15300.0
+P0194,Sandra,Male,52,Emergency,Wayne Morgan,2025-04-11,Recovered,I10,Essential (primary) hypertension,,80,128000.0
+P0195,Scott,Female,12,Cardiology,Marie Christian,2025-05-04,Recovered,I25,Chronic ischemic heart disease,2025-05-12,8,17600.0
+P0196,Michelle,Male,39,Oncology,Shannon James,2025-06-22,Recovered,I10,Essential (primary) hypertension,2025-06-30,8,20000.0
+P0197,Andrea,Female,2,Emergency,Nathan Malone,2025-05-25,Recovered,I25,Chronic ischemic heart disease,2025-06-03,9,14400.0
+P0198,Brent,Female,3,Oncology,Amanda Jones,2025-05-06,Recovered,K21,Gastro-esophageal reflux disease,2025-05-13,7,17500.0
+P0199,Yvette,Female,56,Pediatrics,Tammie Bright,2025-04-12,Recovered,J18,"Pneumonia, organism unspecified",,79,118500.0
+P0200,Mary,Male,81,Emergency,Jessica Garcia,2025-06-14,Referred,I10,Essential (primary) hypertension,2025-06-15,1,1600.0
+P0201,Tanya,Male,59,Oncology,Shelia Wallace,2025-04-28,Recovered,N39,"Urinary tract infection, site not specified",2025-05-05,7,17500.0
+P0202,Sara,Female,2,Oncology,Stephanie Williams,2025-05-26,Recovered,J18,"Pneumonia, organism unspecified",2025-06-03,8,20000.0
+P0203,Melinda,Female,2,ICU,Elaine Brooks,2025-04-22,Recovered,K21,Gastro-esophageal reflux disease,,69,
+P0204,Gabriel,Female,54,ICU,Joseph Knight,2025-06-18,Recovered,N39,"Urinary tract infection, site not specified",,12,
+P0205,Todd,Male,87,Cardiology,Carolyn Miller,2025-05-12,Deceased,N39,"Urinary tract infection, site not specified",2025-05-14,2,4400.0
+P0206,Jason,Male,1,ICU,Lisa Allen,2025-06-22,Recovered,N39,"Urinary tract infection, site not specified",2025-07-01,9,
+P0207,Richard,Male,19,General Surgery,Briana Murray,2025-05-25,Referred,K21,Gastro-esophageal reflux disease,,36,72000.0
+P0208,Brian,Female,2,General Surgery,David Smith,2025-06-14,Recovered,N39,"Urinary tract infection, site not specified",,16,32000.0
+P0209,Nicholas,Female,53,Pediatrics,Stephanie Byrd,2025-06-19,Recovered,F41,Other anxiety disorders,,11,16500.0
+P0210,Tricia,Male,44,Emergency,Jeremy Reed,2025-05-31,Recovered,K21,Gastro-esophageal reflux disease,2025-06-04,4,6400.0
+P0211,Joseph,Female,32,Orthopedics,Margaret Coleman,2025-05-30,Deceased,I25,Chronic ischemic heart disease,2025-06-05,6,10200.0
+P0212,Kristen,Female,70,Emergency,Ryan Gonzalez,2025-06-05,Recovered,I25,Chronic ischemic heart disease,2025-06-15,10,16000.0
+P0213,Spencer,Female,32,Cardiology,John Young,2025-06-02,Recovered,I10,Essential (primary) hypertension,2025-06-04,2,4400.0
+P0214,Rodney,Female,68,Orthopedics,Laura Haney,2025-05-25,Referred,N39,"Urinary tract infection, site not specified",2025-05-27,2,3400.0
+P0215,Susan,Male,55,Oncology,William Barrett,2025-04-03,Recovered,J45,Asthma,2025-04-12,9,22500.0
+P0216,Wendy,Female,75,Neurology,Keith Jennings,2025-05-30,Recovered,N39,"Urinary tract infection, site not specified",2025-06-01,2,3600.0
+P0217,Angela,Female,56,Orthopedics,Amber Obrien,2025-06-03,Recovered,R07,Pain in throat and chest,2025-06-04,1,1700.0
+P0218,Jennifer,Male,17,Emergency,Tanner Mitchell DDS,2025-06-20,Recovered,K21,Gastro-esophageal reflux disease,2025-06-24,4,6400.0
+P0219,Eric,Female,38,Orthopedics,Heather Fields,2025-06-07,Referred,R07,Pain in throat and chest,2025-06-09,2,3400.0
+P0220,Kenneth,Male,24,Cardiology,Megan Le,2025-04-26,Recovered,J18,"Pneumonia, organism unspecified",2025-05-01,5,11000.0
+P0221,Tanya,Female,69,Neurology,Sara Fuller,2025-04-03,Recovered,N39,"Urinary tract infection, site not specified",,88,158400.0
+P0222,Beth,Female,70,ICU,Maria Parker,2025-04-18,Recovered,I25,Chronic ischemic heart disease,2025-04-23,5,
+P0223,Amy,Male,86,ICU,Kevin Oconnor,2025-04-27,Recovered,J18,"Pneumonia, organism unspecified",2025-05-05,8,
+P0224,Julie,Female,11,General Surgery,Edward Burgess,2025-06-08,Recovered,I25,Chronic ischemic heart disease,,22,44000.0
+P0225,Brian,Male,16,Neurology,Carlos Ryan,2025-06-14,Recovered,E11,Type 2 diabetes mellitus,2025-06-17,3,5400.0
+P0226,Breanna,Female,73,General Surgery,Kiara Mcintyre,2025-04-30,Recovered,I25,Chronic ischemic heart disease,2025-05-01,1,2000.0
+P0227,Wesley,Female,59,ICU,Dawn Summers,2025-05-03,Recovered,I25,Chronic ischemic heart disease,2025-05-07,4,
+P0228,Melissa,Female,70,General Surgery,Dr. Paul Morgan,2025-05-05,Recovered,E11,Type 2 diabetes mellitus,2025-05-12,7,14000.0
+P0229,Eric,Male,80,Orthopedics,Victor Taylor,2025-04-01,Recovered,I25,Chronic ischemic heart disease,,90,153000.0
+P0230,Susan,Female,3,ICU,Shannon Ramsey,2025-04-18,Recovered,E11,Type 2 diabetes mellitus,2025-04-26,8,
+P0231,Christopher,Female,20,General Surgery,Tracy Ballard,2025-06-24,Recovered,I10,Essential (primary) hypertension,2025-07-03,9,18000.0
+P0232,Jacob,Male,59,General Surgery,Richard Smith,2025-04-14,Recovered,M54,Dorsalgia,2025-04-23,9,18000.0
+P0233,Brooke,Female,36,Orthopedics,Jordan Chambers,2025-05-25,Recovered,I25,Chronic ischemic heart disease,2025-06-03,9,15300.0
+P0234,Emma,Female,19,Pediatrics,Lauren Carson,2025-06-03,Recovered,N39,"Urinary tract infection, site not specified",2025-06-06,3,4500.0
+P0235,Joe,Male,67,Neurology,Ashley Hall,2025-05-09,Recovered,I25,Chronic ischemic heart disease,2025-05-13,4,7200.0
+P0236,David,Female,19,Pediatrics,Stephen Hoffman,2025-04-07,Recovered,K21,Gastro-esophageal reflux disease,2025-04-08,1,1500.0
+P0237,Pamela,Female,20,Pediatrics,Connie Brown,2025-04-14,Recovered,F41,Other anxiety disorders,2025-04-17,3,4500.0
+P0238,John,Female,71,Orthopedics,Susan Turner,2025-06-11,Referred,I10,Essential (primary) hypertension,2025-06-18,7,11900.0
+P0239,Brooke,Male,52,General Surgery,Charles Shah,2025-06-01,Referred,R07,Pain in throat and chest,,29,58000.0
+P0240,Christine,Male,33,Neurology,Johnathan Davis,2025-04-03,Recovered,J18,"Pneumonia, organism unspecified",2025-04-09,6,10800.0
+P0241,Robert,Female,40,Pediatrics,Brandy Chavez,2025-04-09,Recovered,N39,"Urinary tract infection, site not specified",2025-04-16,7,10500.0
+P0242,Brandy,Male,39,General Surgery,Natalie Bautista,2025-06-12,Recovered,N39,"Urinary tract infection, site not specified",2025-06-21,9,18000.0
+P0243,Alexandra,Male,82,ICU,Patrick Moore,2025-05-22,Recovered,J18,"Pneumonia, organism unspecified",,39,
+P0244,Sarah,Male,1,Pediatrics,Brett Burns,2025-04-21,Recovered,I25,Chronic ischemic heart disease,2025-04-30,9,13500.0
+P0245,James,Male,11,Pediatrics,Trevor Johnson,2025-05-07,Referred,I25,Chronic ischemic heart disease,,54,81000.0
+P0246,Jennifer,Female,57,Oncology,Jeremy Sampson,2025-05-11,Referred,I25,Chronic ischemic heart disease,2025-05-15,4,10000.0
+P0247,John,Female,89,Oncology,Ariana Jennings,2025-05-15,Recovered,I10,Essential (primary) hypertension,2025-05-21,6,15000.0
+P0248,Randy,Female,50,Oncology,Vanessa Howard,2025-05-04,Recovered,I10,Essential (primary) hypertension,2025-05-12,8,20000.0
+P0249,Emily,Female,23,Neurology,Colton Martinez,2025-04-16,Recovered,F41,Other anxiety disorders,2025-04-21,5,9000.0
+P0250,Kevin,Male,31,Emergency,Jordan Bates,2025-05-06,Referred,I25,Chronic ischemic heart disease,2025-05-11,5,8000.0
